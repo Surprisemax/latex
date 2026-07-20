@@ -1,0 +1,25 @@
+\documentclass{article} 
+\usepackage{amsthm} 
+\newtheorem{theorem}{Theorem}[section] 
+\newtheorem{defnition}[theorem]{Definition} 
+\newtheorem{corollary}[theorem]{Corollary} 
+\newtheorem{lemma}[theorem]{Lemma} 
+\begin{document} 
+\section{Introduction} 
+\begin{theorem} 
+This is the Theorem 
+\end{theorem} 
+\begin{defnition} 
+This is the defnition 
+\end{defnition} 
+\begin{corollary} 
+This is the Corollary 
+\end{corollary} 
+\begin{lemma} 
+This is the lemma 
+\end{lemma} 
+\section{Another Section} 
+\begin{theorem} 
+This is another theorem 
+\end{theorem} 
+\end{document} 
