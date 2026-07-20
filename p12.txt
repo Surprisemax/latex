@@ -1,0 +1,23 @@
+\documentclass[12pt]{report} 
+\title{Simple Report} 
+\author{Your Name} 
+\date{\today} 
+\begin{document} 
+\maketitle 
+\tableofcontents 
+\newpage 
+\chapter{Introduction} 
+This is the introduction section of the report. 
+\chapter{Objectives} 
+The objectives of this report are: 
+\begin{itemize} 
+\item To understand LaTeX 
+\item To create chapters 
+\end{itemize} 
+\chapter{Methodology} 
+This section explains the methods used in the study. 
+\chapter{Results} 
+This section presents the results obtained. 
+\chapter{Conclusion} 
+This is the conclusion of the report. 
+\end{document} 
