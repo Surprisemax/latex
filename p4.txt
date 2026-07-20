@@ -1,0 +1,51 @@
+\documentclass[12pt,a4paper]{report} 
+\usepackage{graphicx} 
+\usepackage{geometry} 
+\geometry{a4paper,total={170mm,257mm},left=20mm,right=20mm,top=20mm,bottom=20mm} 
+\thispagestyle{empty} 
+\begin{document} 
+ \begin{titlepage} 
+  \begin{center} 
+   \textbf{VISVESWARAYA TECHNOLOGICAL UNIVERSITY}\\ 
+   \normalsize Jnana Sangama,Belagavi-590018\\ 
+   \vspace{0.2in} 
+   \includegraphics[scale=0.3]{VTU.png}\\ 
+   \vspace{0.5in} 
+   \textbf{CERTIFICATE}\\ 
+   \vspace{0.2in} 
+   This is to certify that\\ 
+   \vspace{0.2in} 
+   \underline{\hspace{10cm}}\\ 
+   \vspace{0.2in} 
+   (Name of the Student)\\ 
+   \vspace{0.2in} 
+   bearing University Seat Number\\ 
+   \vspace{0.2in} 
+   \underline{\hspace{10cm}}\\ 
+   \vspace{0.2in} 
+   has satisfactorily completed the project work entitled\\ 
+   \vspace{0.2in} 
+   \underline{\hspace{10cm}}\\ 
+   \vspace{0.2in} 
+   (Title of the Project)\\ 
+   \vspace{0.2in} 
+   towards the partial fullfillment of the requirements for the award of the degree of \\ 
+   \vspace{0.2in}  
+   \bfseries{BACHELOR OF ENGINEERING}\\ 
+   IN\\ 
+   COMPUTER SCIENCE AND ENGINEERING\\  
+   \vspace{0.5in} 
+   \textbf{Guide}\hspace{5.5cm}\textbf{Head of the Department}\\  
+   \vspace{0.3in} 
+   \underline{\hspace{6cm}}\hspace{1.5cm}\underline{\hspace{6cm}}\\ 
+   \vspace{0.1in} 
+   \textbf{(Guide's Name)}\hspace{4cm}\textbf{(HOD's Name)}\\ 
+   \textbf{(Guide's Designation)}\hspace{2.7cm}\textbf{(HOD's Designation)}\\ 
+    \textbf{(Department of CSE)}\hspace{2.5cm}\textbf{(Department of CSE)}\\ 
+    \vspace{0.2in} 
+    \bfseries{[College Name]}\\ 
+    {[Location]}\\ 
+    {[Month  Year]}\\ 
+  \end{center} 
+ \end{titlepage} 
+\end{document}
