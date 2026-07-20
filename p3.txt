@@ -1,0 +1,45 @@
+\documentclass[12pt,a4paper]{report} 
+\usepackage{graphicx} 
+\usepackage{geometry} 
+\geometry{a4paper,total={170mm,257mm},left=20mm,right=20mm,bottom=30mm} 
+\thispagestyle{empty} 
+\begin{document} 
+ \begin{titlepage} 
+  \begin{center} 
+   \textbf{\large VISVESWARAYA TECHNOLOCICAL UNIVERSITY}\\ 
+   \normalsize Jnana Sangama Belagavi-590018\\ 
+   \vspace{0.3in} 
+   \includegraphics[width=0.2\linewidth]{VTU.png}\\ 
+   \vspace{0.3in} 
+   \textbf{A PROJECT REPORT}\\ 
+   ON\\ 
+   \textbf{\large "Create Report Format Using LaTeX"}\\ 
+   \vspace{0.1in} 
+   \small Submitted in partial fulfillment of the requirements for the fourth semester degree of Bachelor 
+of Engineering in Computer Science Engineering in Visveswaraya Technologocal University Belagavi\\ 
+   \vspace{0.1in} 
+   \textbf{BACHELOR OF ENGINEERING \\IN\\COMPUTER SCIENCE ENGINEERING}\\ 
+   \vspace{0.2in} 
+   Submitted By\\ 
+   \vspace{0.1in} 
+   \begin{tabular}{l l} 
+   \textbf{1UC24CS001}&\textbf{name 1}\\ 
+    \textbf{1UC24CS002}&\textbf{name 2}\\ 
+    \textbf{1UC24CS003}&\textbf{name 3}\\ 
+   \end{tabular}\\ 
+  \vspace{0.2in} 
+  \textbf{Under the guidence of }\\ 
+   Ms.Bhavyashree S\\ 
+   Assistant Professor, Department of Mathematics\\                                                                              
+\vspace{0.2in} 
+\includegraphics[scale=0.4]{VTU.png}\\ 
+\vspace{0.1in} 
+\small Department of Computer Science and Engineering\\ 
+\vspace{0.1in} 
+\textbf{CONSTITUENT COLLEGE OF VTU,CHINTAMANI}\\ 
+\small Government Polytechnic Campus-563125\\ 
+\vspace{0.1in} 
+\small2025-2026\\ 
+\end{center} 
+\end{titlepage} 
+\end{document}
