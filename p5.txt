@@ -1,0 +1,26 @@
+\documentclass{article} 
+\usepackage{array} 
+\renewcommand{\arraystretch}{1.3} 
+\begin{document} 
+ \begin{center} 
+  \textbf{\Large Student Details and Marks} 
+ \end{center} 
+ \vspace{0.3cm} 
+ \begin{table}[h] 
+  \centering 
+  \begin{tabular}{|c|c|c|c|c|c|}             
+   \hline         
+   \textbf{Sl. No} & \textbf{USN} & \textbf{Student Name}  
+   & \multicolumn{3}{c|}{\textbf{Marks}} \\              
+   \cline{4-6} 
+   &  &  & \textbf{Subject 1} & \textbf{Subject 2} & \textbf{Subject 3} \\ 
+   \hline 
+   1 & 4XX22XX001 & Name 1 & 89 & 60 & 90 \\ 
+   \hline 
+   2 & 4XX22XX002 & Name 2 & 78 & 45 & 98 \\ 
+   \hline 
+   3 & 4XX22XX003 & Name 3 & 67 & 55 & 59 \\ 
+   \hline 
+  \end{tabular} 
+ \end{table} 
+\end{document}
