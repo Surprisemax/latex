@@ -1,0 +1,31 @@
+\documentclass{article} 
+\begin{document} 
+\title{Sample Document with Citations} 
+\author{Your Name} 
+\date{\today} 
+\maketitle 
+\section*{Introduction} 
+LaTeX is a widely used typesetting system for technical and scientific documentation \cite{ref1}.It is            
+especially popular in mathematics and computer science because of its powerful handling of formulas \cite{ref2}. 
+Researchers prefer LaTeX for writing research papers and theses \cite{ref3}. 
+It provides automatic numbering of sections, equations, and references \cite{ref4}. Many academic journals require 
+submissions in LaTeX format \cite{ref5}.      
+%\cite used to insert citations 
+LaTeX also supports bibliography management and citation formatting \cite{ref6}. 
+It ensures consistency and professional formatting in documents \cite{ref7}. 
+Cross-referencing features make it easy to manage large documents \cite{ref8}. 
+Packages allow customization and additional functionalities \cite{ref9}. 
+Therefore, LaTeX is an essential tool for academic writing \cite{ref10}. 
+\begin{thebibliography}{99} 
+\bibitem{ref1} A. Kumar, Introduction to LaTeX, 2020. 
+\bibitem{ref2} B. Sharma, Technical Writing Guide, 2019. 
+\bibitem{ref3} C. Rao, Basics of Documentation, 2018. 
+\bibitem{ref4} D. Patel, Scientific Writing, 2017. 
+\bibitem{ref5} E. Reddy, Academic Formatting, 2016. 
+\bibitem{ref6} F. Singh, Research Methods, 2015. 
+\bibitem{ref7} G. Verma, Writing Skills, 2014. 
+\bibitem{ref8} H. Nair, Modern Documentation, 2013. 
+\bibitem{ref9} I. Das, Publishing Standards, 2012. 
+\bibitem{ref10} J. Mehta, Journal Writing, 2011. 
+\end{thebibliography} 
+\end{document}
